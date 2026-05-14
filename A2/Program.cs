@@ -5,11 +5,6 @@
         return;
     }
 
-
-
-
-
-
     static void PrintRows(List<List<string>> rows)
     {
         for (int row = 0; row < rows.Count; row++)
