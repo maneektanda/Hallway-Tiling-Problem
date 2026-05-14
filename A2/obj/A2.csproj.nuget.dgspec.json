@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maneektanda/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/Course Work/Year 2 Sem 1/CAB301 Algorithms and Complexity/A2/A2/A2.csproj": {}
+    "/Users/maneektanda/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/Course Work/Year 2 Sem 1/CAB301 Algorithms and Complexity/A2/Tiles/A2/A2.csproj": {}
   },
   "projects": {
-    "/Users/maneektanda/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/Course Work/Year 2 Sem 1/CAB301 Algorithms and Complexity/A2/A2/A2.csproj": {
+    "/Users/maneektanda/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/Course Work/Year 2 Sem 1/CAB301 Algorithms and Complexity/A2/Tiles/A2/A2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maneektanda/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/Course Work/Year 2 Sem 1/CAB301 Algorithms and Complexity/A2/A2/A2.csproj",
+        "projectUniqueName": "/Users/maneektanda/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/Course Work/Year 2 Sem 1/CAB301 Algorithms and Complexity/A2/Tiles/A2/A2.csproj",
         "projectName": "A2",
-        "projectPath": "/Users/maneektanda/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/Course Work/Year 2 Sem 1/CAB301 Algorithms and Complexity/A2/A2/A2.csproj",
+        "projectPath": "/Users/maneektanda/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/Course Work/Year 2 Sem 1/CAB301 Algorithms and Complexity/A2/Tiles/A2/A2.csproj",
         "packagesPath": "/Users/maneektanda/.nuget/packages/",
-        "outputPath": "/Users/maneektanda/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/Course Work/Year 2 Sem 1/CAB301 Algorithms and Complexity/A2/A2/obj/",
+        "outputPath": "/Users/maneektanda/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/Course Work/Year 2 Sem 1/CAB301 Algorithms and Complexity/A2/Tiles/A2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maneektanda/.nuget/NuGet/NuGet.Config"

@@ -9,9 +9,13 @@
 
         int numHallways = HallwayTiler.CountHallwayArrangements(hallwayLength, hallwayWidth, tileLength, tiles);
 
+        Console.WriteLine();
         Console.WriteLine($"Hallway Length = {hallwayLength}");
         Console.WriteLine($"Hallway Width = {hallwayWidth}");
         Console.WriteLine($"Tile Length = {tileLength}");
+        Console.WriteLine("Tile Width is always 1.");
+        Console.WriteLine("Tiles must be placed lengthways down the hallway.");
+        Console.WriteLine("Tiles can be rotated 180 degrees if doing so produces a new tile.");
         Console.WriteLine();
         Console.WriteLine("Tiles-");
         for (int i = 0; i < tiles.Count; i++)
