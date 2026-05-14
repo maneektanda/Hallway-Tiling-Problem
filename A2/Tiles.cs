@@ -1,6 +1,6 @@
 public class HallwayTiler
 {
-    static public int CountHallwayArrangements(int n, int m, int t, List<string> tiles)
+    static public int CountHallwayArrangements(int hallwayLength, int hallwayWidth, int tileLength, List<string> tiles)
     {
         /*
         n = Hallway length
@@ -8,9 +8,9 @@ public class HallwayTiler
         t = Tile length
         */
 
-        int hallwayLength = n;
-        int hallwayWidth = m;
-        int tileLength = t;
+        // int hallwayLength = n;
+        // int hallwayWidth = m;
+        // int tileLength = t;
 
         // Update the available tiles list to allow for rotating tiles.
         List<string> allTilePermutations = GetAllTilePermutations(tiles);

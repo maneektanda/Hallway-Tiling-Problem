@@ -2,7 +2,25 @@
 {
     static void Main(string[] args)
     {
-        return;
+        int hallwayLength = 20;
+        int hallwayWidth = 2;
+        int tileLength = 2;
+        List<string> tiles = new List<string> {"BW", "BR"};
+
+        int numHallways = HallwayTiler.CountHallwayArrangements(hallwayLength, hallwayWidth, tileLength, tiles);
+
+        Console.WriteLine($"Hallway Length = {hallwayLength}");
+        Console.WriteLine($"Hallway Width = {hallwayWidth}");
+        Console.WriteLine($"Tile Length = {tileLength}");
+        Console.WriteLine();
+        Console.WriteLine("Tiles-");
+        for (int i = 0; i < tiles.Count; i++)
+        {
+            Console.WriteLine($"Tile {i+1}- {tiles[i]}");
+        }
+        Console.WriteLine();
+        Console.WriteLine($"The number of ways to lay these tiles in the given hallway is {numHallways}.");
+        Console.WriteLine();
     }
 
     static void PrintRows(List<List<string>> rows)

@@ -12,3 +12,4 @@
 /Users/maneektanda/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/Course Work/Year 2 Sem 1/CAB301 Algorithms and Complexity/A2/A2/obj/Debug/net9.0/A2.pdb
 /Users/maneektanda/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/Course Work/Year 2 Sem 1/CAB301 Algorithms and Complexity/A2/A2/obj/Debug/net9.0/A2.genruntimeconfig.cache
 /Users/maneektanda/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/Course Work/Year 2 Sem 1/CAB301 Algorithms and Complexity/A2/A2/obj/Debug/net9.0/ref/A2.dll
+/Users/maneektanda/Library/CloudStorage/OneDrive-QueenslandUniversityofTechnology/Uni/Course Work/Year 2 Sem 1/CAB301 Algorithms and Complexity/A2/A2/obj/Debug/net9.0/A2.sourcelink.json
