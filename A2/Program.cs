@@ -2,6 +2,7 @@
 {
     static void Main(string[] args)
     {
+
         int hallwayLength = 20;
         int hallwayWidth = 2;
         int tileLength = 2;
@@ -27,6 +28,9 @@
         Console.WriteLine();
     }
 
+
+
+    // Prints all rows to check progress.
     static void PrintRows(List<List<string>> rows)
     {
         for (int row = 0; row < rows.Count; row++)
@@ -40,6 +44,9 @@
         }
     }
 
+
+
+    // Prints the rows vertically for easier viewing.
     static void PrintRowsVertically(List<List<string>> rows)
     {
         for (int row = 0; row < rows.Count; row++)
@@ -56,6 +63,9 @@
         }
     }
 
+
+
+    // Prints the tiles.
     static void PrintTiles(List<string> tiles)
     {
         Console.WriteLine();
@@ -69,6 +79,9 @@
         Console.WriteLine();
     }
 
+
+
+    // Prints hallways vertically for easier viewing.
     static void PrintHallwaysVertically(List<List<List<string>>> hallways)
     {
         for (int hallway = 0; hallway < hallways.Count; hallway++)
@@ -78,7 +91,6 @@
             Console.WriteLine();
             for (int row = 0; row < hallways[hallway].Count; row++)
             {
-                //Console.WriteLine($"Row {row}");
                 for (int colour = 0; colour < hallways[hallway][row][0].Length; colour++)
                 {
                     for (int tile = 0; tile < hallways[hallway][row].Count; tile++)
@@ -87,7 +99,6 @@
                     }
                     Console.WriteLine();
                 }
-                //Console.WriteLine();
             }
             Console.WriteLine();
             Console.WriteLine("End of hallway");    
